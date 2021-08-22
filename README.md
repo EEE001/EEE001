@@ -1,8 +1,9 @@
-Hi there 👋
-Thanks for visiting my profile
-I am Emon Ghosh
-Currently a student studying Computer Science and Engineering
+Hi there 👋 <br />
+Thanks for visiting my profile  <br />
+I am Emon Ghosh  <br/>
+Currently a student studying Computer Science and Engineering <br/>
 at Ahsanullah University of Science and Technology
+
 
 
 currently learning: 
