@@ -6,7 +6,7 @@ at Ahsanullah University of Science and Technology
 
 
 
-currently learning: 
+Currently learning: 
 
 * Machine Learning
 * Competitive Programming
