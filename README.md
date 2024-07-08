@@ -1,8 +1,8 @@
 Hi there 👋 <br />
 Thanks for visiting my profile  <br />
 I am Emon Ghosh  <br/>
-Currently a student studying Computer Science and Engineering <br/>
-at Ahsanullah University of Science and Technology
+Graduated in Computer Science and Engineering <br/>
+from Ahsanullah University of Science and Technology
 
 
 
