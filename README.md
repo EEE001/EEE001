@@ -9,7 +9,8 @@ from Ahsanullah University of Science and Technology
 Currently learning: 
 
 * Machine Learning
-* Competitive Programming
+* Problem Solving
+* Software Engineering
 
 
 <!---
